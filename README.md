@@ -1,4 +1,4 @@
-# Create Sample Docker images with Terraform
+# Running nginx in a docker image with terraform
 
 This project originates from https://
 
