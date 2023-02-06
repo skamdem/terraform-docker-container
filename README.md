@@ -13,7 +13,14 @@ $ terraform fmt
 $ terraform plan
 $ terraform apply
 ```
+Note: Run this if you update "required_providers"
+```
+terraform init -upgrade
+```
+
 for delete:
 ```
 $ terraform destroy
 ```
+
+View the project at http://localhost:8000/
